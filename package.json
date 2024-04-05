@@ -26,6 +26,8 @@
   "homepage": "https://github.com/manthans16/CRUD-with-NodeJs-and-Express#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.5.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.3.0"
   }
 }
